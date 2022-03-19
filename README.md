@@ -1,5 +1,5 @@
 ## Hey 👋 I'm Adrian
-I study Business and Information Technology 
+I study Business and Information Technology and I am a full stack developer
 
 ### Background
 I started coding back in 2015, practice with Visual Studio, on small projects/games, as I was interested
@@ -15,4 +15,4 @@ and learning git, linux, sql, and other kinds of applications and software which
 PHP, JS, CSS, HTML, Python, Java, Kotlin
 
 ### Reach Me
-If you like my Repos or have questions, add me on Discord: ```yex#9236```
+If you like my Repos or have questions, add me on Discord: ```yex#9236``` or contact me through my email: ```apses.golds.0x@icloud.com```
