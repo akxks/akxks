@@ -1,4 +1,4 @@
-### Hey 👋 I'm Adrian
+## Hey 👋 I'm Adrian
 I study Business and Information Technology 
 
 ### Background
