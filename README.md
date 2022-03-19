@@ -15,4 +15,4 @@ and learning git, linux, sql, and other kinds of applications and software which
 PHP, JS, CSS, HTML, Python, Java, Kotlin
 
 ### Reach Me
-If you like my Repos or have questions, add me on Discord: yex#9236
+If you like my Repos or have questions, add me on Discord: ```yex#9236```
