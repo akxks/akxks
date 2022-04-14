@@ -15,4 +15,4 @@ and learning git, linux, sql, and other kinds of applications and software which
 PHP, JS, CSS, HTML, Python, Java, Kotlin
 
 ### Reach Me
-If you like my Repos or have questions, add me on Discord: ```yex#9236``` or contact me through my email: ```apses.golds.0x@icloud.com```
+If you like my Repos or have questions, contact me through my email: ```apses.golds.0x@icloud.com```
