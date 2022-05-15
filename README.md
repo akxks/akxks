@@ -1,5 +1,5 @@
 ## Hey 👋 I'm Adrian
-I study Business and Information Technology and I am a full stack developer
+I study Business and IT, and I also code in my free time
 
 ### Background
 I started coding back in 2015, practice with Visual Studio, on small projects/games, as I was interested
